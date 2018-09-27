@@ -1,0 +1,1 @@
+# strcpy_strncpy
